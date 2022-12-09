@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\DigitalWare\MetodoBurbuja\MetodoBurbuja\bin\Debug\MetodoBurbuja.exe.config
+C:\Users\andre\Documents\DigitalWare\MetodoBurbuja\MetodoBurbuja\bin\Debug\MetodoBurbuja.exe
+C:\Users\andre\Documents\DigitalWare\MetodoBurbuja\MetodoBurbuja\bin\Debug\MetodoBurbuja.pdb
+C:\Users\andre\Documents\DigitalWare\MetodoBurbuja\MetodoBurbuja\obj\Debug\MetodoBurbuja.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\DigitalWare\MetodoBurbuja\MetodoBurbuja\obj\Debug\MetodoBurbuja.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\DigitalWare\MetodoBurbuja\MetodoBurbuja\obj\Debug\MetodoBurbuja.exe
+C:\Users\andre\Documents\DigitalWare\MetodoBurbuja\MetodoBurbuja\obj\Debug\MetodoBurbuja.pdb

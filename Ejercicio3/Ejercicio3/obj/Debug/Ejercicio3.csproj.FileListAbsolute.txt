@@ -1,0 +1,6 @@
+C:\Users\andre\Documents\DigitalWare\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\andre\Documents\DigitalWare\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\andre\Documents\DigitalWare\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\andre\Documents\DigitalWare\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\DigitalWare\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\andre\Documents\DigitalWare\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
